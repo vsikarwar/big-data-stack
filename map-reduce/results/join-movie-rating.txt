@@ -1,0 +1,1682 @@
+"North by Northwest (1959)"	179
+"Apartment, The (1960)"	63
+"Some Like It Hot (1959)"	128
+"Casablanca (1942)"	243
+"Maltese Falcon, The (1941)"	138
+"My Fair Lady (1964)"	125
+"Sabrina (1954)"	64
+"Roman Holiday (1953)"	68
+"Sunset Blvd. (1950)"	65
+"Notorious (1946)"	52
+"I.Q. (1994)"	81
+"To Catch a Thief (1955)"	50
+"Adventures of Robin Hood, The (1938)"	67
+"East of Eden (1955)"	59
+"Thin Man, The (1934)"	60
+"His Girl Friday (1940)"	56
+"Around the World in 80 Days (1956)"	59
+"It's a Wonderful Life (1946)"	231
+"Bringing Up Baby (1938)"	68
+"African Queen, The (1951)"	152
+"Cat on a Hot Tin Roof (1958)"	62
+"Copycat (1995)"	86
+"Star Wars (1977)"	584
+"Fly Away Home (1996)"	31
+"Dumbo (1941)"	123
+"Bananas (1971)"	57
+"Candidate, The (1972)"	39
+"Bonnie and Clyde (1967)"	122
+"Dial M for Murder (1954)"	68
+"Rebel Without a Cause (1955)"	90
+"Streetcar Named Desire, A (1951)"	98
+"People vs. Larry Flynt, The (1996)"	215
+"My Left Foot (1989)"	121
+"Legends of the Fall (1994)"	81
+"Magnificent Seven, The (1954)"	121
+"Lawrence of Arabia (1962)"	173
+"Wings of Desire (1987)"	57
+"Third Man, The (1949)"	72
+"Annie Hall (1977)"	180
+"Boot, Das (1981)"	201
+"Local Hero (1983)"	63
+"Manhattan (1979)"	91
+"Miller's Crossing (1990)"	89
+"Treasure of the Sierra Madre, The (1948)"	80
+"Madness of King George, The (1994)"	91
+"Great Escape, The (1963)"	124
+"Deer Hunter, The (1978)"	120
+"Down by Law (1986)"	35
+"Cool Hand Luke (1967)"	164
+"Great Dictator, The (1940)"	46
+"Big Sleep, The (1946)"	73
+"Ben-Hur (1959)"	124
+"Gandhi (1982)"	195
+"Killing Fields, The (1984)"	121
+"My Life as a Dog (Mitt liv som hund) (1985)"	93
+"Natural Born Killers (1994)"	128
+"Man Who Would Be King, The (1975)"	80
+"Shine (1996)"	129
+"Kama Sutra: A Tale of Love (1996)"	22
+"Daytrippers, The (1996)"	15
+"Traveller (1997)"	13
+"Addicted to Love (1997)"	54
+"Ponette (1996)"	10
+"My Own Private Idaho (1991)"	30
+"Anastasia (1997)"	66
+"Mouse Hunt (1997)"	44
+"Outbreak (1995)"	104
+"Money Train (1995)"	43
+"Mortal Kombat (1995)"	49
+"Pocahontas (1995)"	51
+"Mis\u00e9rables, Les (1995)"	21
+"Things to Do in Denver when You're Dead (1995)"	71
+"Vampire in Brooklyn (1995)"	12
+"Broken Arrow (1996)"	254
+"Young Poisoner's Handbook, The (1995)"	41
+"NeverEnding Story III, The (1994)"	12
+"Rob Roy (1995)"	92
+"Professional, The (1994)"	149
+"Die Hard: With a Vengeance (1995)"	151
+"Lord of Illusions (1995)"	24
+"Species (1995)"	45
+"Walk in the Clouds, A (1995)"	63
+"Waterworld (1995)"	102
+"White Man's Burden (1995)"	10
+"Wild Bill (1995)"	12
+"Farinelli: il castrato (1994)"	17
+"Heavenly Creatures (1994)"	70
+"Interview with the Vampire (1994)"	137
+"Pulp Fiction (1994)"	394
+"Kid in King Arthur's Court, A (1995)"	22
+"Mary Shelley's Frankenstein (1994)"	59
+"Quick and the Dead, The (1995)"	48
+"Stephen King's The Langoliers (1995)"	29
+"Tales from the Hood (1995)"	27
+"Village of the Damned (1995)"	22
+"Clear and Present Danger (1994)"	179
+"Wes Craven's New Nightmare (1994)"	35
+"Speed (1994)"	230
+"Wolf (1994)"	67
+"Priest (1994)"	40
+"Wyatt Earp (1994)"	50
+"Another Stakeout (1993)"	28
+"Blown Away (1994)"	29
+"Body Snatchers (1993)"	33
+"Boxing Helena (1993)"	15
+"City Slickers II: The Legend of Curly's Gold (1994)"	44
+"Cliffhanger (1993)"	93
+"Coneheads (1993)"	41
+"Demolition Man (1993)"	92
+"Fatal Instinct (1993)"	19
+"Quiz Show (1994)"	175
+"Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)"	32
+"Kalifornia (1993)"	59
+"Piano, The (1993)"	168
+"Romeo Is Bleeding (1993)"	37
+"Secret Garden, The (1993)"	79
+"Son in Law (1993)"	39
+"Terminal Velocity (1994)"	34
+"Hour of the Pig, The (1993)"	14
+"Beauty and the Beast (1991)"	202
+"Wild Bunch, The (1969)"	43
+"Three Colors: Red (1994)"	83
+"Hellraiser: Bloodline (1996)"	18
+"Primal Fear (1996)"	178
+"True Crime (1995)"	9
+"Stalingrad (1993)"	12
+"Heavy (1995)"	5
+"Fan, The (1996)"	64
+"Hunchback of Notre Dame, The (1996)"	127
+"Eraser (1996)"	206
+"Big Squeeze, The (1996)"	4
+"Police Story 4: Project S (Chao ji ji hua) (1993)"	1
+"Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)"	26
+"Three Colors: Blue (1993)"	64
+"Daniel Defoe's Robinson Crusoe (1996)"	2
+"For Whom the Bell Tolls (1943)"	20
+"American in Paris, An (1951)"	50
+"Rear Window (1954)"	209
+"It Happened One Night (1934)"	81
+"Meet Me in St. Louis (1944)"	31
+"All About Eve (1950)"	66
+"Rebecca (1940)"	66
+"Spellbound (1945)"	30
+"Father of the Bride (1950)"	60
+"Three Colors: White (1994)"	59
+"Gigi (1958)"	41
+"Laura (1944)"	40
+"Lost Horizon (1937)"	34
+"My Man Godfrey (1936)"	27
+"Giant (1956)"	51
+"39 Steps, The (1935)"	59
+"Night of the Living Dead (1968)"	64
+"Blue Angel, The (Blaue Engel, Der) (1930)"	18
+"Picnic (1955)"	18
+"Extreme Measures (1996)"	64
+"Stargate (1994)"	127
+"Chamber, The (1996)"	43
+"Sling Blade (1996)"	136
+"Ridicule (1996)"	44
+"101 Dalmatians (1996)"	109
+"Die Hard 2 (1990)"	166
+"Star Trek VI: The Undiscovered Country (1991)"	161
+"Star Trek: The Wrath of Khan (1982)"	244
+"Star Trek III: The Search for Spock (1984)"	171
+"Taxi Driver (1976)"	182
+"Star Trek IV: The Voyage Home (1986)"	199
+"Batman Returns (1992)"	142
+"Young Guns (1988)"	101
+"Under Siege (1992)"	124
+"Jaws (1975)"	280
+"Mars Attacks! (1996)"	217
+"Citizen Ruth (1996)"	45
+"Jerry Maguire (1996)"	384
+"Raising Arizona (1987)"	256
+"Sneakers (1992)"	150
+"Rumble in the Bronx (1995)"	174
+"Beavis and Butt-head Do America (1996)"	156
+"Last of the Mohicans, The (1992)"	128
+"Kolya (1996)"	117
+"Jungle2Jungle (1997)"	132
+"Smilla's Sense of Snow (1997)"	48
+"Devil's Own, The (1997)"	240
+"Chasing Amy (1997)"	124
+"Turbo: A Power Rangers Movie (1997)"	5
+"Grosse Pointe Blank (1997)"	160
+"Austin Powers: International Man of Mystery (1997)"	130
+"Birdcage, The (1996)"	293
+"Fifth Element, The (1997)"	197
+"Shall We Dance? (1996)"	46
+"Lost World: Jurassic Park, The (1997)"	158
+"Pillow Book, The (1995)"	26
+"Batman & Robin (1997)"	62
+"My Best Friend's Wedding (1997)"	172
+"When the Cats Away (Chacun cherche son chat) (1996)"	16
+"Men in Black (1997)"	303
+"Contact (1997)"	509
+"George of the Jungle (1997)"	162
+"Pompatus of Love, The (1996)"	7
+"Palmetto (1998)"	14
+"Surviving the Game (1994)"	11
+"Inventing the Abbotts (1997)"	23
+"Horse Whisperer, The (1998)"	7
+"Journey of August King, The (1995)"	4
+"Catwalk (1995)"	3
+"Neon Bible, The (1995)"	4
+"Wizard of Oz, The (1939)"	246
+"Homage (1995)"	1
+"Open Season (1996)"	2
+"Metisse (Caf\u00e9 au Lait) (1993)"	6
+"Wooden Man's Bride, The (Wu Kui) (1994)"	3
+"Loaded (1994)"	5
+"August (1996)"	1
+"Boys (1996)"	6
+"Captives (1994)"	3
+"Of Love and Shadows (1994)"	6
+"Low Life, The (1994)"	1
+"Gone with the Wind (1939)"	172
+"An Unforgettable Summer (1994)"	4
+"Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)"	4
+"My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993)"	2
+"Midnight Dancers (Sibak) (1994)"	5
+"Somebody to Love (1994)"	2
+"American Buffalo (1996)"	11
+"Kazaam (1996)"	10
+"Larger Than Life (1996)"	9
+"Two Deaths (1995)"	4
+"Stefano Quantestorie (1993)"	1
+"Citizen Kane (1941)"	198
+"Crude Oasis, The (1995)"	1
+"Hedd Wyn (1992)"	1
+"Convent, The (Convento, O) (1995)"	2
+"Lotto Land (1995)"	1
+"Story of Xinghua, The (1993)"	5
+"Day the Sun Turned Cold, The (Tianguo niezi) (1994)"	2
+"Dingo (1992)"	5
+"Ballad of Narayama, The (Narayama Bushiko) (1958)"	4
+"Every Other Weekend (1990)"	1
+"Mille bolle blu (1993)"	1
+"2001: A Space Odyssey (1968)"	259
+"Crows and Sparrows (1949)"	2
+"Lover's Knot (1996)"	3
+"Shadow of Angels (Schatten der Engel) (1976)"	1
+"1-900 (1994)"	5
+"Venice/Venice (1992)"	2
+"Infinity (1996)"	6
+"Ed's Next Move (1996)"	3
+"For the Moment (1994)"	3
+"The Deadly Cure (1996)"	2
+"Boys in Venice (1996)"	2
+"Mr. Smith Goes to Washington (1939)"	105
+"Sexual Life of the Belgians, The (1994)"	2
+"Search for One-eye Jimmy, The (1996)"	3
+"American Strays (1996)"	2
+"Leopard Son, The (1996)"	1
+"Bird of Prey (1996)"	1
+"Johnny 100 Pesos (1993)"	2
+"JLG/JLG - autoportrait de d\u00e9cembre (1994)"	1
+"Faust (1994)"	5
+"Mina Tannenbaum (1994)"	6
+"Forbidden Christ, The (Cristo proibito, Il) (1950)"	4
+"Big Night (1996)"	171
+"I Can't Sleep (J'ai pas sommeil) (1994)"	3
+"Machine, The (1994)"	2
+"Stranger, The (1994)"	3
+"Good Morning (1971)"	1
+"Falling in Love Again (1980)"	2
+"Cement Garden, The (1993)"	10
+"Meet Wally Sparks (1997)"	7
+"Hotel de Love (1996)"	4
+"Rhyme & Reason (1997)"	5
+"Love and Other Catastrophes (1996)"	7
+"D3: The Mighty Ducks (1996)"	19
+"Hollow Reed (1996)"	6
+"Losing Chase (1996)"	8
+"Bonheur, Le (1965)"	4
+"Second Jungle Book: Mowgli & Baloo, The (1997)"	6
+"Squeeze (1996)"	3
+"Roseanna's Grave (For Roseanna) (1997)"	5
+"Tetsuo II: Body Hammer (1992)"	6
+"Fall (1997)"	3
+"Gabbeh (1996)"	6
+"Mondo (1996)"	3
+"Love Bug, The (1969)"	50
+"Innocent Sleep, The (1995)"	2
+"For Ever Mozart (1996)"	3
+"Locusts, The (1997)"	5
+"Stag (1997)"	9
+"Swept from the Sea (1997)"	7
+"Hurricane Streets (1998)"	6
+"Stonewall (1995)"	5
+"Of Human Bondage (1934)"	5
+"Anna (1996)"	2
+"Stranger in the House (1997)"	7
+"Postino, Il (1994)"	183
+"Homeward Bound: The Incredible Journey (1993)"	61
+"Picture Bride (1995)"	10
+"M. Butterfly (1993)"	18
+"Ciao, Professore! (1993)"	4
+"Caro Diario (Dear Diary) (1994)"	4
+"Withnail and I (1987)"	13
+"Boy's Life 2 (1997)"	6
+"When Night Is Falling (1995)"	5
+"Specialist, The (1994)"	20
+"Gordy (1995)"	3
+"Swan Princess, The (1994)"	7
+"20,000 Leagues Under the Sea (1954)"	72
+"Harlem (1993)"	4
+"Barbarella (1968)"	28
+"Land Before Time III: The Time of the Great Giving (1995) (V)"	6
+"Street Fighter (1994)"	8
+"Coldblooded (1995)"	1
+"Next Karate Kid, The (1994)"	9
+"No Escape (1994)"	5
+"Turning, The (1992)"	2
+"Joy Luck Club, The (1993)"	3
+"Highlander III: The Sorcerer (1994)"	16
+"Bedknobs and Broomsticks (1971)"	57
+"Gilligan's Island: The Movie (1998)"	3
+"My Crazy Life (Mi vida loca) (1993)"	11
+"Suture (1993)"	4
+"Walking Dead, The (1995)"	4
+"I Like It Like That (1994)"	3
+"I'll Do Anything (1994)"	10
+"Grace of My Heart (1996)"	8
+"Drunks (1995)"	5
+"SubUrbia (1997)"	12
+"Sliding Doors (1998)"	4
+"Sound of Music, The (1965)"	222
+"Ill Gotten Gains (1997)"	3
+"Legal Deceit (1997)"	5
+"Mighty, The (1998)"	3
+"Men of Means (1998)"	2
+"Shooting Fish (1997)"	10
+"Steal Big, Steal Little (1995)"	7
+"Mr. Jones (1993)"	2
+"House Party 3 (1994)"	9
+"Panther (1995)"	5
+"Jason's Lyric (1994)"	8
+"Die Hard (1988)"	243
+"Above the Rim (1994)"	5
+"Moonlight and Valentino (1995)"	7
+"Scarlet Letter, The (1995)"	5
+"8 Seconds (1994)"	4
+"That Darn Cat! (1965)"	19
+"Ladybird Ladybird (1994)"	4
+"Bye Bye, Love (1995)"	15
+"Century (1993)"	1
+"My Favorite Season (1993)"	3
+"Pather Panchali (1955)"	8
+"Lawnmower Man, The (1992)"	65
+"Golden Earrings (1947)"	2
+"Foreign Correspondent (1940)"	15
+"Lady of Burlesque (1943)"	1
+"Angel on My Shoulder (1946)"	1
+"Angel and the Badman (1947)"	6
+"Outlaw, The (1943)"	2
+"Beat the Devil (1954)"	7
+"Love Is All There Is (1996)"	1
+"Damsel in Distress, A (1937)"	1
+"Madame Butterfly (1995)"	7
+"Unhook the Stars (1996)"	10
+"Sleepover (1995)"	1
+"Here Comes Cookie (1935)"	1
+"Thieves (Voleurs, Les) (1996)"	7
+"Boys, Les (1997)"	3
+"Stars Fell on Henrietta, The (1995)"	3
+"Last Summer in the Hamptons (1995)"	3
+"Margaret's Museum (1995)"	6
+"Saint of Fort Washington, The (1993)"	2
+"Cure, The (1995)"	6
+"Tom and Huck (1995)"	12
+"Long Kiss Goodnight, The (1996)"	185
+"Gumby: The Movie (1995)"	5
+"Hideaway (1995)"	9
+"Visitors, The (Visiteurs, Les) (1993)"	2
+"Little Princess, The (1939)"	9
+"Nina Takes a Lover (1994)"	6
+"Bhaji on the Beach (1993)"	8
+"Raw Deal (1948)"	1
+"Nightwatch (1997)"	2
+"Dead Presidents (1995)"	18
+"Reckless (1995)"	8
+"Ghost and the Darkness, The (1996)"	128
+"Herbie Rides Again (1974)"	11
+"S.F.W. (1994)"	2
+"Gate of Heavenly Peace, The (1995)"	1
+"Man in the Iron Mask, The (1998)"	12
+"Jerky Boys, The (1994)"	3
+"Colonel Chabert, Le (1994)"	4
+"Girl in the Cadillac (1995)"	1
+"Even Cowgirls Get the Blues (1993)"	5
+"Germinal (1993)"	4
+"Chasers (1994)"	5
+"Jude (1996)"	23
+"Fausto (1993)"	3
+"Tough and Deadly (1995)"	2
+"Window to Paris (1994)"	1
+"Modern Affair, A (1995)"	1
+"Mostro, Il (1994)"	1
+"Flirt (1995)"	5
+"Carpool (1996)"	5
+"Line King: Al Hirschfeld, The (1996)"	2
+"Farmer & Chase (1995)"	1
+"Grosse Fatigue (1994)"	4
+"Mr. Holland's Opus (1995)"	293
+"Swingers (1996)"	157
+"Santa with Muscles (1996)"	2
+"Prisoner of the Mountains (Kavkazsky Plennik) (1996)"	5
+"Naked in New York (1994)"	2
+"Gold Diggers: The Secret of Bear Mountain (1995)"	10
+"Bewegte Mann, Der (1994)"	3
+"Killer: A Journal of Murder (1995)"	1
+"Nelly & Monsieur Arnaud (1995)"	3
+"Three Lives and Only One Death (1996)"	1
+"Babysitter, The (1995)"	3
+"Getting Even with Dad (1994)"	5
+"Willy Wonka and the Chocolate Factory (1971)"	326
+"Mad Dog Time (1996)"	1
+"Children of the Revolution (1996)"	5
+"World of Apu, The (Apur Sansar) (1959)"	6
+"Sprung (1997)"	3
+"Dream With the Fishes (1997)"	7
+"Wings of Courage (1995)"	1
+"Wedding Gift, The (1994)"	3
+"Race the Sun (1996)"	5
+"Losing Isaiah (1995)"	12
+"New Jersey Drive (1995)"	2
+"Sleeper (1973)"	82
+"Fear, The (1995)"	1
+"Mr. Wonderful (1993)"	4
+"Trial by Jury (1994)"	7
+"Good Man in Africa, A (1994)"	2
+"Kaspar Hauser (1993)"	8
+"Object of My Affection, The (1998)"	1
+"Witness (1985)"	1
+"Senseless (1998)"	7
+"Nowhere (1997)"	3
+"Underground (1995)"	5
+"Fish Called Wanda, A (1988)"	247
+"Jefferson in Paris (1995)"	5
+"Far From Home: The Adventures of Yellow Dog (1995)"	7
+"Foreign Student (1994)"	2
+"I Don't Want to Talk About It (De eso no se habla) (1993)"	1
+"Twin Town (1997)"	6
+"Enfer, L' (1994)"	4
+"Aiqing wansui (1994)"	1
+"Cosi (1996)"	4
+"All Over Me (1997)"	3
+"Being Human (1993)"	4
+"Monty Python's Life of Brian (1979)"	174
+"Amazing Panda Adventure, The (1995)"	10
+"Beans of Egypt, Maine, The (1994)"	2
+"Scarlet Letter, The (1926)"	2
+"Johns (1996)"	1
+"It Takes Two (1995)"	3
+"Frankie Starlight (1995)"	4
+"Shadows (Cienie) (1988)"	1
+"Show, The (1995)"	2
+"The Courtyard (1995)"	1
+"Dream Man (1995)"	2
+"Dirty Dancing (1987)"	98
+"Destiny Turns on the Radio (1995)"	2
+"Glass Shield, The (1994)"	2
+"Hunted, The (1995)"	3
+"Underneath, The (1995)"	4
+"Safe Passage (1994)"	2
+"Secret Adventures of Tom Thumb, The (1993)"	5
+"Condition Red (1995)"	2
+"Yankee Zulu (1994)"	1
+"Aparajito (1956)"	7
+"Hostile Intentions (1994)"	1
+"Reservoir Dogs (1992)"	148
+"Clean Slate (Coup de Torchon) (1981)"	4
+"Tigrero: A Film That Was Never Made (1994)"	1
+"Eye of Vichy, The (Oeil de Vichy, L') (1993)"	1
+"Promise, The (Versprechen, Das) (1994)"	1
+"To Cross the Rubicon (1991)"	1
+"Daens (1992)"	1
+"Man from Down Under, The (1943)"	1
+"Careful (1992)"	1
+"Vermont Is For Lovers (1992)"	1
+"Vie est belle, La (Life is Rosey) (1987)"	1
+"Platoon (1986)"	127
+"Quartier Mozart (1992)"	1
+"Touki Bouki (Journey of the Hyena) (1973)"	1
+"Wend Kuuni (God's Gift) (1982)"	1
+"Spirits of the Dead (Tre passi nel delirio) (1968)"	2
+"Pharaoh's Army (1995)"	1
+"I, Worst of All (Yo, la peor de todas) (1990)"	1
+"Hungarian Fairy Tale, A (1987)"	1
+"Death in the Garden (Mort en ce jardin, La) (1956)"	1
+"Collectionneuse, La (1967)"	2
+"Baton Rouge (1988)"	1
+"Weekend at Bernie's (1989)"	60
+"Liebelei (1933)"	1
+"Woman in Question, The (1950)"	1
+"T-Men (1947)"	1
+"Invitation, The (Zaproszenie) (1986)"	1
+"Symphonie pastorale, La (1946)"	1
+"American Dream (1990)"	2
+"Lashou shentan (1992)"	1
+"Terror in a Texas Town (1958)"	1
+"Salut cousin! (1996)"	2
+"Schizopolis (1996)"	4
+"Basic Instinct (1992)"	101
+"To Have, or Not (1995)"	2
+"Duoluo tianshi (1995)"	6
+"Magic Hour, The (1998)"	5
+"Death in Brunswick (1991)"	1
+"Everest (1998)"	2
+"Shopping (1994)"	1
+"Nemesis 2: Nebula (1995)"	1
+"Romper Stomper (1992)"	5
+"City of Industry (1997)"	6
+"Someone Else's America (1995)"	1
+"French Twist (Gazon maudit) (1995)"	39
+"Glengarry Glen Ross (1992)"	69
+"Guantanamera (1994)"	4
+"Office Killer (1997)"	1
+"Price Above Rubies, A (1998)"	3
+"Angela (1995)"	1
+"He Walked by Night (1948)"	1
+"Love Serenade (1996)"	4
+"Deceiver (1997)"	1
+"Hurricane Streets (1998)"	3
+"Buddy (1997)"	4
+"B*A*P*S (1997)"	3
+"Top Gun (1986)"	220
+"Truth or Consequences, N.M. (1997)"	3
+"Intimate Relations (1996)"	2
+"Leading Man, The (1996)"	4
+"Tokyo Fist (1995)"	1
+"Reluctant Debutante, The (1958)"	1
+"Warriors of Virtue (1997)"	10
+"Desert Winds (1995)"	1
+"Hugo Pool (1997)"	2
+"King of New York (1990)"	1
+"All Things Fair (1996)"	1
+"On Golden Pond (1981)"	106
+"Sixth Man, The (1997)"	9
+"Butterfly Kiss (1995)"	1
+"Paris, France (1993)"	3
+"C\u00e9r\u00e9monie, La (1995)"	3
+"Hush (1998)"	1
+"Nightwatch (1997)"	1
+"Nobody Loves Me (Keiner liebt mich) (1994)"	1
+"Wife, The (1995)"	1
+"Lamerica (1994)"	4
+"Nico Icon (1995)"	2
+"Return of the Pink Panther, The (1974)"	92
+"Silence of the Palace, The (Saimt el Qusur) (1994)"	1
+"Slingshot, The (1993)"	2
+"Land and Freedom (Tierra y libertad) (1995)"	1
+"\u00c1 k\u00f6ldum klaka (Cold Fever) (1994)"	1
+"Etz Hadomim Tafus (Under the Domin Tree) (1994)"	1
+"Two Friends (1986) "	1
+"Brothers in Trouble (1995)"	1
+"Girls Town (1996)"	1
+"Normal Life (1996)"	1
+"Bitter Sugar (Azucar Amargo) (1996)"	3
+"Abyss, The (1989)"	151
+"Eighth Day, The (1996)"	1
+"Dadetown (1995)"	1
+"Some Mother's Son (1996)"	2
+"Angel Baby (1995)"	4
+"Sudden Manhattan (1996)"	2
+"Butcher Boy, The (1998)"	1
+"Men With Guns (1997)"	2
+"Hana-bi (1997)"	1
+"Niagara, Niagara (1997)"	1
+"Big One, The (1997)"	1
+"Jean de Florette (1986)"	64
+"Butcher Boy, The (1998)"	1
+"Spanish Prisoner, The (1997)"	1
+"Temptress Moon (Feng Yue) (1996)"	3
+"Entertaining Angels: The Dorothy Day Story (1996)"	1
+"Chairman of the Board (1998)"	1
+"Favor, The (1994)"	1
+"Little City (1998)"	2
+"Target (1995)"	1
+"Substance of Fire, The (1996)"	3
+"Getting Away With Murder (1996)"	1
+"Manon of the Spring (Manon des sources) (1986)"	58
+"Small Faces (1995)"	1
+"New Age, The (1994)"	1
+"Rough Magic (1995)"	2
+"Nothing Personal (1995)"	1
+"8 Heads in a Duffel Bag (1997)"	4
+"Brother's Kiss, A (1997)"	1
+"Ripe (1996)"	1
+"Next Step, The (1995)"	1
+"Wedding Bell Blues (1996)"	1
+"MURDER and murder (1996)"	1
+"Private Benjamin (1980)"	67
+"Tainted (1998)"	1
+"Further Gesture, A (1996)"	1
+"Kika (1993)"	2
+"Mirage (1995)"	1
+"Mamma Roma (1962)"	1
+"Sunchaser, The (1996)"	1
+"War at Home, The (1996)"	1
+"Sweet Nothing (1995)"	1
+"Mat' i syn (1997)"	1
+"B. Monkey (1998)"	1
+"Monty Python and the Holy Grail (1974)"	316
+"Sliding Doors (1998)"	1
+"You So Crazy (1994)"	1
+"Scream of Stone (Schrei aus Stein) (1991)"	1
+"Wrong Trousers, The (1993)"	118
+"From Dusk Till Dawn (1996)"	92
+"Cinema Paradiso (1988)"	121
+"Delicatessen (1991)"	65
+"Empire Strikes Back, The (1980)"	368
+"Princess Bride, The (1987)"	324
+"Raiders of the Lost Ark (1981)"	420
+"Brazil (1985)"	208
+"Aliens (1986)"	284
+"Good, The Bad and The Ugly, The (1966)"	137
+"12 Angry Men (1957)"	125
+"Clockwork Orange, A (1971)"	221
+"White Balloon, The (1995)"	10
+"Apocalypse Now (1979)"	221
+"Return of the Jedi (1983)"	507
+"GoodFellas (1990)"	226
+"Alien (1979)"	291
+"Army of Darkness (1993)"	116
+"Psycho (1960)"	239
+"Blues Brothers, The (1980)"	251
+"Godfather: Part II, The (1974)"	209
+"Full Metal Jacket (1987)"	170
+"Grand Day Out, A (1992)"	66
+"Antonia's Line (1995)"	69
+"Henry V (1989)"	124
+"Amadeus (1984)"	276
+"Raging Bull (1980)"	116
+"Right Stuff, The (1983)"	157
+"Sting, The (1973)"	241
+"Terminator, The (1984)"	301
+"Dead Poets Society (1989)"	251
+"Graduate, The (1967)"	239
+"Nikita (La Femme Nikita) (1990)"	127
+"Bridge on the River Kwai, The (1957)"	165
+"GoldenEye (1995)"	131
+"Angels and Insects (1995)"	72
+"Shining, The (1980)"	206
+"Evil Dead II (1987)"	89
+"Groundhog Day (1993)"	280
+"Unforgiven (1992)"	182
+"Back to the Future (1985)"	350
+"Patton (1970)"	136
+"Akira (1988)"	50
+"Cyrano de Bergerac (1990)"	66
+"Young Frankenstein (1974)"	200
+"This Is Spinal Tap (1984)"	191
+"Muppet Treasure Island (1996)"	84
+"Indiana Jones and the Last Crusade (1989)"	331
+"M*A*S*H (1970)"	206
+"Unbearable Lightness of Being, The (1988)"	92
+"Room with a View, A (1986)"	134
+"Pink Floyd - The Wall (1982)"	114
+"Field of Dreams (1989)"	212
+"When Harry Met Sally... (1989)"	290
+"Bram Stoker's Dracula (1992)"	120
+"Cape Fear (1991)"	171
+"Nightmare on Elm Street, A (1984)"	111
+"Braveheart (1995)"	297
+"Mirror Has Two Faces, The (1996)"	66
+"Breaking the Waves (1996)"	74
+"Star Trek: First Contact (1996)"	365
+"Persuasion (1995)"	44
+"Kicking and Screaming (1995)"	13
+"City Hall (1996)"	79
+"Basketball Diaries, The (1995)"	40
+"Browning Version, The (1994)"	10
+"Little Women (1994)"	102
+"Twelve Monkeys (1995)"	392
+"Four Weddings and a Funeral (1994)"	251
+"Miami Rhapsody (1995)"	15
+"Wonderful, Horrible Life of Leni Riefenstahl, The (1993)"	10
+"Barcelona (1994)"	53
+"Widows' Peak (1994)"	19
+"House of the Spirits, The (1993)"	24
+"Singin' in the Rain (1952)"	137
+"Bad Moon (1996)"	6
+"Enchanted April (1991)"	70
+"Sex, Lies, and Videotape (1989)"	101
+"Strictly Ballroom (1992)"	104
+"Lion King, The (1994)"	220
+"Better Off Dead... (1985)"	79
+"Substance of Fire, The (1996)"	1
+"Tin Men (1987)"	51
+"Othello (1995)"	72
+"Carrington (1995)"	13
+"To Die For (1995)"	87
+"Home for the Holidays (1995)"	58
+"Juror, The (1996)"	82
+"In the Bleak Midwinter (1995)"	16
+"Canadian Bacon (1994)"	29
+"Mask, The (1994)"	129
+"First Knight (1995)"	86
+"Mallrats (1995)"	54
+"Nine Months (1995)"	58
+"Boys on the Side (1995)"	34
+"Circle of Friends (1995)"	76
+"Exit to Eden (1994)"	16
+"Fluke (1995)"	14
+"Immortal Beloved (1994)"	63
+"Junior (1994)"	45
+"Nell (1994)"	81
+"Maverick (1994)"	128
+"Queen Margot (Reine Margot, La) (1994)"	24
+"Corrina, Corrina (1994)"	39
+"Dave (1993)"	180
+"Go Fish (1994)"	15
+"Made in America (1993)"	27
+"Philadelphia (1993)"	137
+"Shadowlands (1993)"	78
+"Sirens (1994)"	59
+"Threesome (1994)"	31
+"Pretty Woman (1990)"	164
+"Faster Pussycat! Kill! Kill! (1965)"	7
+"Jane Eyre (1996)"	63
+"Last Supper, The (1995)"	58
+"Ransom (1996)"	267
+"Crow: City of Angels, The (1996)"	39
+"Michael Collins (1996)"	92
+"Ruling Class, The (1972)"	16
+"Real Genius (1985)"	119
+"Benny & Joon (1993)"	102
+"Saint, The (1997)"	316
+"MatchMaker, The (1997)"	51
+"Brother Minister: The Assassination of Malcolm X (1994)"	5
+"Amistad (1997)"	124
+"Tomorrow Never Dies (1997)"	180
+"Replacement Killers, The (1998)"	39
+"Burnt By the Sun (1994)"	24
+"Red Corner (1997)"	57
+"Jumanji (1995)"	96
+"Father of the Bride Part II (1995)"	128
+"Across the Sea of Time (1995)"	4
+"Lawnmower Man 2: Beyond Cyberspace (1996)"	21
+"Fair Game (1995)"	11
+"Carlito's Way (1993)"	54
+"Screamers (1995)"	46
+"Nick of Time (1995)"	44
+"Beautiful Girls (1996)"	115
+"Happy Gilmore (1996)"	149
+"If Lucy Fell (1996)"	29
+"Boomerang (1992)"	32
+"Man of the Year (1995)"	9
+"Addiction, The (1995)"	11
+"Casper (1995)"	52
+"Congo (1995)"	42
+"Firm, The (1993)"	151
+"Devil in a Blue Dress (1995)"	57
+"Johnny Mnemonic (1995)"	41
+"Kids (1995)"	49
+"Mute Witness (1994)"	17
+"Prophecy, The (1995)"	32
+"Something to Talk About (1995)"	26
+"Three Wishes (1995)"	9
+"Castle Freak (1995)"	4
+"Don Juan DeMarco (1995)"	76
+"Drop Zone (1994)"	31
+"Free Willy (1993)"	33
+"Dumb & Dumber (1994)"	69
+"French Kiss (1995)"	84
+"Little Odessa (1994)"	10
+"Milk Money (1994)"	37
+"Beyond Bedlam (1993)"	2
+"Only You (1994)"	39
+"Perez Family, The (1995)"	14
+"Roommates (1995)"	13
+"Relative Fear (1994)"	3
+"Swimming with Sharks (1995)"	47
+"Fugitive, The (1993)"	336
+"Tommy Boy (1995)"	66
+"Baby-Sitters Club, The (1995)"	10
+"Bullets Over Broadway (1994)"	86
+"Crooklyn (1994)"	10
+"It Could Happen to You (1994)"	46
+"Richie Rich (1994)"	21
+"Speechless (1994)"	36
+"Timecop (1994)"	31
+"Bad Company (1995)"	9
+"Boys Life (1995)"	5
+"Babe (1995)"	219
+"Hot Shots! Part Deux (1993)"	68
+"In the Mouth of Madness (1995)"	26
+"Air Up There, The (1994)"	16
+"Hard Target (1993)"	40
+"Heaven & Earth (1993)"	9
+"Jimmy Hollywood (1994)"	8
+"Manhattan Murder Mystery (1993)"	27
+"Menace II Society (1993)"	50
+"Poetic Justice (1993)"	9
+"Program, The (1993)"	31
+"Rising Sun (1993)"	43
+"Hudsucker Proxy, The (1994)"	110
+"Shadow, The (1994)"	45
+"Thirty-Two Short Films About Glenn Gould (1993)"	18
+"Andre (1994)"	18
+"Celluloid Closet, The (1995)"	56
+"Great Day in Harlem, A (1994)"	1
+"One Fine Day (1996)"	112
+"Candyman: Farewell to the Flesh (1995)"	21
+"Frisk (1995)"	3
+"Girl 6 (1996)"	25
+"Eddie (1996)"	40
+"Jurassic Park (1993)"	261
+"Space Jam (1996)"	93
+"Mrs. Winterbourne (1996)"	22
+"Faces (1968)"	4
+"Mulholland Falls (1996)"	82
+"Great White Hype, The (1996)"	49
+"Arrival, The (1996)"	83
+"Phantom, The (1996)"	80
+"Daylight (1996)"	57
+"Alaska (1996)"	13
+"Fled (1996)"	34
+"Much Ado About Nothing (1993)"	176
+"Power 98 (1995)"	1
+"Escape from L.A. (1996)"	91
+"Bogus (1996)"	22
+"Bulletproof (1996)"	49
+"Halloween: The Curse of Michael Myers (1995)"	25
+"Gay Divorcee, The (1934)"	15
+"Ninotchka (1939)"	26
+"Meet John Doe (1941)"	25
+"In the Line of Duty 2 (1987)"	4
+"Loch Ness (1995)"	4
+"Robert A. Heinlein's The Puppet Masters (1994)"	18
+"Last Man Standing (1996)"	53
+"Glimmer Man, The (1996)"	48
+"Pollyanna (1960)"	27
+"Shaggy Dog, The (1959)"	30
+"Freeway (1996)"	42
+"That Thing You Do! (1996)"	176
+"To Gillian on Her 37th Birthday (1996)"	44
+"Looking for Richard (1996)"	55
+"Murder, My Sweet (1944)"	9
+"Days of Thunder (1990)"	53
+"Ref, The (1994)"	58
+"Perfect Candidate, A (1996)"	4
+"Two or Three Things I Know About Her (1966)"	4
+"Bloody Child, The (1996)"	1
+"Braindead (1992)"	14
+"Bad Taste (1987)"	16
+"Diva (1981)"	66
+"Night on Earth (1991)"	36
+"Paris Was a Woman (1995)"	1
+"Amityville: Dollhouse (1996)"	3
+"April Fool's Day (1986)"	15
+"Remains of the Day, The (1993)"	150
+"Believers, The (1987)"	16
+"Nosferatu a Venezia (1986)"	3
+"Jingle All the Way (1996)"	18
+"Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970)"	24
+"My Fellow Americans (1996)"	86
+"Ice Storm, The (1997)"	21
+"Michael (1996)"	119
+"Whole Wide World, The (1996)"	6
+"Hearts and Minds (1996)"	5
+"Fools Rush In (1997)"	24
+"Searching for Bobby Fischer (1993)"	138
+"Touch (1997)"	9
+"Vegas Vacation (1997)"	75
+"Love Jones (1997)"	42
+"Picture Perfect (1997)"	81
+"Career Girls (1997)"	39
+"She's So Lovely (1997)"	53
+"Money Talks (1997)"	47
+"Excess Baggage (1997)"	52
+"That Darn Cat! (1997)"	33
+"Peacemaker, The (1997)"	136
+"Sleepless in Seattle (1993)"	213
+"Soul Food (1997)"	59
+"Money Talks (1997)"	45
+"Washington Square (1997)"	34
+"Telling Lies in America (1997)"	13
+"Year of the Horse (1997)"	7
+"Phantoms (1998)"	13
+"Life Less Ordinary, A (1997)"	53
+"Eve's Bayou (1997)"	64
+"One Night Stand (1997)"	15
+"Tango Lesson, The (1997)"	13
+"Blade Runner (1982)"	275
+"Mortal Kombat: Annihilation (1997)"	43
+"Bent (1997)"	6
+"Flubber (1997)"	53
+"For Richer or Poorer (1997)"	14
+"Home Alone 3 (1997)"	19
+"Scream 2 (1997)"	106
+"Sweet Hereafter, The (1997)"	44
+"Time Tracers (1995)"	2
+"Postman, The (1997)"	58
+"Winter Guest, The (1997)"	9
+"Dead Man Walking (1995)"	299
+"So I Married an Axe Murderer (1993)"	95
+"Kundun (1997)"	42
+"Mr. Magoo (1997)"	12
+"Big Lebowski, The (1998)"	42
+"Afterglow (1997)"	18
+"Ma vie en rose (My Life in Pink) (1997)"	20
+"Great Expectations (1998)"	27
+"Oscar & Lucinda (1997)"	21
+"Vermin (1998)"	2
+"Half Baked (1998)"	20
+"Dangerous Beauty (1998)"	13
+"Nightmare Before Christmas, The (1993)"	143
+"Nil By Mouth (1997)"	4
+"Twilight (1998)"	4
+"U.S. Marshalls (1998)"	9
+"Love and Death on Long Island (1997)"	2
+"Wild Things (1998)"	11
+"Primary Colors (1998)"	13
+"Lost in Space (1998)"	18
+"Mercury Rising (1998)"	7
+"City of Angels (1998)"	8
+"City of Lost Children, The (1995)"	96
+"True Romance (1993)"	104
+"Two Bits (1995)"	5
+"Farewell My Concubine (1993)"	46
+"Dead Man (1995)"	34
+"Raise the Red Lantern (1991)"	58
+"White Squall (1996)"	85
+"Unforgettable (1996)"	34
+"Down Periscope (1996)"	101
+"Flower of My Secret, The (Flor de mi secreto, La) (1995)"	6
+"Craft, The (1996)"	104
+"Harriet the Spy (1996)"	40
+"Welcome to the Dollhouse (1995)"	112
+"Chain Reaction (1996)"	80
+"Island of Dr. Moreau, The (1996)"	57
+"First Kid (1996)"	40
+"Funeral, The (1996)"	21
+"Preacher's Wife, The (1996)"	68
+"Paradise Road (1997)"	7
+"Brassed Off (1996)"	32
+"Thousand Acres, A (1997)"	37
+"Smile Like Yours, A (1997)"	25
+"Murder in the First (1995)"	60
+"Home Alone (1990)"	137
+"Airheads (1994)"	32
+"With Honors (1994)"	46
+"What's Love Got to Do with It (1993)"	45
+"Killing Zoe (1994)"	40
+"Renaissance Man (1994)"	43
+"Charade (1963)"	40
+"Fox and the Hound, The (1981)"	61
+"Big Blue, The (Grand bleu, Le) (1988)"	17
+"Booty Call (1997)"	48
+"How to Make an American Quilt (1995)"	71
+"Aladdin (1992)"	219
+"Georgia (1995)"	30
+"Indian in the Cupboard, The (1995)"	39
+"Blue in the Face (1995)"	45
+"Unstrung Heroes (1995)"	22
+"Unzipped (1995)"	11
+"Before Sunrise (1995)"	49
+"Nobody's Fool (1994)"	46
+"Pushing Hands (1992)"	2
+"To Live (Huozhe) (1994)"	14
+"Dazed and Confused (1993)"	64
+"Terminator 2: Judgment Day (1991)"	295
+"Naked (1993)"	25
+"Orlando (1993)"	34
+"Ruby in Paradise (1993)"	23
+"Some Folks Call It a Sling Blade (1993)"	41
+"Month by the Lake, A (1995)"	9
+"Funny Face (1957)"	21
+"Affair to Remember, An (1957)"	26
+"Little Lord Fauntleroy (1936)"	12
+"Inspector General, The (1949)"	18
+"Winnie the Pooh and the Blustery Day (1968)"	75
+"Dances with Wolves (1990)"	256
+"Hear My Song (1991)"	8
+"Mediterraneo (1991)"	34
+"Passion Fish (1992)"	28
+"Grateful Dead (1995)"	4
+"Eye for an Eye (1996)"	32
+"Fear (1996)"	44
+"Solo (1996)"	12
+"Substitute, The (1996)"	49
+"Heaven's Prisoners (1996)"	27
+"Trigger Effect, The (1996)"	35
+"Silence of the Lambs, The (1991)"	390
+"Mother Night (1996)"	22
+"Dangerous Ground (1997)"	8
+"Maximum Risk (1996)"	20
+"Rich Man's Wife, The (1996)"	15
+"Shadow Conspiracy (1997)"	44
+"Blood & Wine (1997)"	22
+"Turbulence (1997)"	23
+"Underworld (1997)"	4
+"Beautician and the Beast, The (1997)"	86
+"Cats Don't Dance (1997)"	32
+"Snow White and the Seven Dwarfs (1937)"	172
+"Anna Karenina (1997)"	33
+"Keys to Tulsa (1997)"	25
+"Head Above Water (1996)"	4
+"Hercules (1997)"	66
+"Last Time I Committed Suicide, The (1997)"	7
+"Kiss Me, Guido (1997)"	31
+"Big Green, The (1995)"	14
+"Stuart Saves His Family (1995)"	16
+"Cabin Boy (1994)"	16
+"Clean Slate (1994)"	10
+"Davy Crockett, King of the Wild Frontier (1955)"	11
+"Swiss Family Robinson (1960)"	39
+"Angels in the Outfield (1994)"	39
+"Three Caballeros, The (1945)"	22
+"Sword in the Stone, The (1963)"	82
+"So Dear to My Heart (1949)"	4
+"Robin Hood: Prince of Thieves (1991)"	75
+"Sleepers (1996)"	169
+"Victor/Victoria (1982)"	77
+"Santa Clause, The (1994)"	82
+"Great Race, The (1965)"	31
+"Crying Game, The (1992)"	119
+"Sophie's Choice (1982)"	58
+"Christmas Carol, A (1938)"	69
+"Microcosmos: Le peuple de l'herbe (1996)"	24
+"Fog, The (1980)"	23
+"Escape from New York (1981)"	91
+"Howling, The (1981)"	38
+"Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)"	44
+"Tin Drum, The (Blechtrommel, Die) (1979)"	40
+"Shawshank Redemption, The (1994)"	283
+"Cook the Thief His Wife & Her Lover, The (1989)"	82
+"Paths of Glory (1957)"	33
+"Grifters, The (1990)"	89
+"The Innocent (1994)"	4
+"Thin Blue Line, The (1988)"	35
+"Paris Is Burning (1990)"	27
+"Once Upon a Time in the West (1969)"	38
+"Ran (1985)"	70
+"Quiet Man, The (1952)"	67
+"Once Upon a Time in America (1984)"	50
+"What's Eating Gilbert Grape (1993)"	115
+"Seventh Seal, The (Sjunde inseglet, Det) (1957)"	72
+"Glory (1989)"	171
+"Rosencrantz and Guildenstern Are Dead (1990)"	90
+"Touch of Evil (1958)"	34
+"Chinatown (1974)"	147
+"Stand by Me (1986)"	227
+"M (1931)"	44
+"Manchurian Candidate, The (1962)"	131
+"Pump Up the Volume (1990)"	79
+"Arsenic and Old Lace (1944)"	115
+"While You Were Sleeping (1995)"	162
+"Fried Green Tomatoes (1991)"	153
+"High Noon (1952)"	88
+"Somewhere in Time (1980)"	82
+"Being There (1979)"	116
+"Paris, Texas (1984)"	46
+"Alien 3 (1992)"	100
+"Blood For Dracula (Andy Warhol's Dracula) (1974)"	5
+"Audrey Rose (1977)"	12
+"Blood Beach (1981)"	6
+"Body Parts (1991)"	13
+"Ace Ventura: Pet Detective (1994)"	103
+"Body Snatchers (1993)"	36
+"Bride of Frankenstein (1935)"	46
+"Candyman (1992)"	65
+"Cape Fear (1962)"	86
+"Cat People (1982)"	48
+"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)"	54
+"Crucible, The (1996)"	77
+"Fire on the Mountain (1996)"	1
+"Volcano (1997)"	219
+"Conan the Barbarian (1981)"	107
+"Crow, The (1994)"	134
+"Kull the Conqueror (1997)"	34
+"Wishmaster (1997)"	27
+"I Know What You Did Last Summer (1997)"	100
+"Rocket Man (1997)"	49
+"In the Line of Fire (1993)"	169
+"Executive Decision (1996)"	157
+"Perfect World, A (1993)"	50
+"McHale's Navy (1997)"	69
+"Leave It to Beaver (1997)"	44
+"Jackal, The (1997)"	87
+"Forrest Gump (1994)"	321
+"Seven Years in Tibet (1997)"	155
+"Dark City (1998)"	16
+"American President, The (1995)"	164
+"Casino (1995)"	91
+"Doom Generation, The (1995)"	7
+"Boogie Nights (1997)"	189
+"Critical Care (1997)"	11
+"Man Who Knew Too Little, The (1997)"	52
+"Alien: Resurrection (1997)"	124
+"Apostle, The (1997)"	55
+"Deconstructing Harry (1997)"	65
+"Jackie Brown (1997)"	126
+"Wag the Dog (1997)"	137
+"Desperate Measures (1998)"	27
+"Hard Rain (1998)"	31
+"Free Willy 2: The Adventure Home (1995)"	11
+"Fallen (1998)"	41
+"Prophecy II, The (1998)"	20
+"Spice World (1997)"	26
+"Deep Rising (1998)"	14
+"Wedding Singer, The (1998)"	72
+"Sphere (1998)"	41
+"Client, The (1994)"	97
+"One Flew Over the Cuckoo's Nest (1975)"	264
+"Spawn (1997)"	143
+"Assignment, The (1997)"	18
+"Mad Love (1995)"	13
+"Wonderland (1997)"	10
+"Incognito (1997)"	10
+"Blues Brothers 2000 (1998)"	28
+"Sudden Death (1995)"	47
+"Ace Ventura: When Nature Calls (1995)"	37
+"Powder (1995)"	48
+"Dangerous Minds (1995)"	47
+"Clueless (1995)"	170
+"Bio-Dome (1996)"	31
+"Black Sheep (1996)"	55
+"Nadja (1994)"	8
+"Mary Reilly (1996)"	39
+"Bridges of Madison County, The (1995)"	67
+"Jeffrey (1995)"	34
+"Judge Dredd (1995)"	39
+"Mighty Morphin Power Rangers: The Movie (1995)"	11
+"Showgirls (1995)"	23
+"Houseguest (1994)"	24
+"Heavyweights (1994)"	13
+"Miracle on 34th Street (1994)"	101
+"Tales From the Crypt Presents: Demon Knight (1995)"	43
+"Net, The (1995)"	120
+"Star Trek: Generations (1994)"	116
+"Muriel's Wedding (1994)"	100
+"Adventures of Priscilla, Queen of the Desert, The (1994)"	111
+"Flintstones, The (1994)"	31
+"Naked Gun 33 1/3: The Final Insult (1994)"	69
+"True Lies (1994)"	208
+"Addams Family Values (1993)"	87
+"Age of Innocence, The (1993)"	65
+"Beverly Hills Cop III (1994)"	28
+"Black Beauty (1994)"	27
+"Strange Days (1995)"	87
+"Fear of a Black Hat (1993)"	10
+"Last Action Hero (1993)"	59
+"Man Without a Face, The (1993)"	68
+"Mrs. Doubtfire (1993)"	192
+"Radioland Murders (1994)"	12
+"Robin Hood: Men in Tights (1993)"	56
+"Serial Mom (1994)"	54
+"Striking Distance (1993)"	12
+"Super Mario Bros. (1993)"	26
+"Three Musketeers, The (1993)"	89
+"Get Shorty (1995)"	209
+"To Wong Foo, Thanks for Everything! Julie Newmar (1995)"	57
+"Little Rascals, The (1994)"	18
+"Brady Bunch Movie, The (1995)"	76
+"Ghost (1990)"	170
+"Batman (1989)"	201
+"Pinocchio (1940)"	101
+"Mission: Impossible (1996)"	344
+"Thinner (1996)"	49
+"Spy Hard (1996)"	43
+"Close Shave, A (1995)"	112
+"Jack (1996)"	70
+"Billy Madison (1995)"	37
+"Kingpin (1996)"	162
+"Nutty Professor, The (1996)"	163
+"Very Brady Sequel, A (1996)"	93
+"Tales from the Crypt Presents: Bordello of Blood (1996)"	55
+"My Favorite Year (1982)"	62
+"Apple Dumpling Gang, The (1975)"	25
+"Old Yeller (1957)"	64
+"Parent Trap, The (1961)"	73
+"Cinderella (1950)"	129
+"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)"	9
+"Jupiter's Wife (1994)"	1
+"Safe (1995)"	13
+"Feeling Minnesota (1996)"	32
+"Escape to Witch Mountain (1975)"	30
+"Get on the Bus (1996)"	38
+"Doors, The (1991)"	46
+"Ghosts of Mississippi (1996)"	29
+"Beautiful Thing (1996)"	29
+"Best Men (1997)"	5
+"Hackers (1995)"	33
+"Wallace & Gromit: The Best of Aardman Animation (1996)"	67
+"Road to Wellville, The (1994)"	17
+"War Room, The (1993)"	9
+"When We Were Kings (1996)"	44
+"Hard Eight (1996)"	15
+"Quiet Room, The (1996)"	3
+"Blue Chips (1994)"	9
+"Calendar Girl (1993)"	3
+"My Family (1995)"	21
+"Tom & Viv (1994)"	9
+"Walkabout (1971)"	26
+"Haunted World of Edward D. Wood Jr., The (1995)"	15
+"Last Dance (1996)"	9
+"Original Gangstas (1996)"	7
+"In Love and War (1996)"	28
+"Backbeat (1993)"	19
+"Alphaville (1965)"	12
+"Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)"	3
+"Cyclo (1995)"	1
+"Relic, The (1997)"	25
+"Fille seule, La (A Single Girl) (1995)"	4
+"Stalker (1979)"	11
+"Cold Comfort Farm (1995)"	125
+"Love! Valour! Compassion! (1997)"	26
+"Palookaville (1996)"	13
+"Phat Beach (1996)"	5
+"Portrait of a Lady, The (1996)"	25
+"Zeus and Roxanne (1997)"	6
+"Big Bully (1996)"	14
+"Love & Human Remains (1993)"	12
+"Sum of Us, The (1994)"	11
+"Little Buddha (1993)"	22
+"Fresh (1994)"	10
+"Rock, The (1996)"	378
+"Spanking the Monkey (1994)"	27
+"Wild Reeds (1994)"	14
+"Women, The (1939)"	15
+"Bliss (1997)"	7
+"Caught (1996)"	8
+"Hugo Pool (1997)"	5
+"Welcome To Sarajevo (1997)"	22
+"Dunston Checks In (1996)"	7
+"Major Payne (1994)"	19
+"Man of the House (1995)"	9
+"Twister (1996)"	293
+"I Love Trouble (1994)"	10
+"Low Down Dirty Shame, A (1994)"	10
+"Cops and Robbersons (1994)"	13
+"Cowboy Way, The (1994)"	19
+"Endless Summer 2, The (1994)"	10
+"In the Army Now (1994)"	18
+"Inkwell, The (1994)"	3
+"Switchblade Sisters (1975)"	13
+"Young Guns II (1990)"	44
+"Prefontaine (1997)"	3
+"Maya Lin: A Strong Clear Vision (1994)"	4
+"That Old Feeling (1997)"	11
+"Letter From Death Row, A (1998)"	3
+"Boys of St. Vincent, The (1993)"	13
+"Before the Rain (Pred dozhdot) (1994)"	10
+"Once Were Warriors (1994)"	31
+"Strawberry and Chocolate (Fresa y chocolate) (1993)"	11
+"Savage Nights (Nuits fauves, Les) (1992)"	3
+"Family Thing, A (1996)"	45
+"Purple Noon (1960)"	7
+"Cemetery Man (Dellamorte Dellamore) (1994)"	23
+"Usual Suspects, The (1995)"	267
+"Striptease (1996)"	67
+"Kim (1950)"	7
+"Marlene Dietrich: Shadow and Light (1996) "	1
+"Maybe, Maybe Not (Bewegte Mann, Der) (1994)"	8
+"Top Hat (1935)"	21
+"To Be or Not to Be (1942)"	18
+"Secret Agent, The (1996)"	6
+"Amos & Andrew (1993)"	19
+"Jade (1995)"	17
+"Kiss of Death (1995)"	20
+"Mixed Nuts (1994)"	15
+"Independence Day (ID4) (1996)"	429
+"Virtuosity (1995)"	38
+"Blue Sky (1994)"	12
+"Flesh and Bone (1993)"	6
+"Guilty as Sin (1993)"	6
+"In the Realm of the Senses (Ai no corrida) (1976)"	9
+"Barb Wire (1996)"	30
+"Kissed (1996)"	6
+"Assassins (1995)"	39
+"Friday (1995)"	26
+"Goofy Movie, A (1995)"	20
+"Cable Guy, The (1996)"	106
+"Higher Learning (1995)"	30
+"When a Man Loves a Woman (1994)"	39
+"Judgment Night (1993)"	25
+"King of the Hill (1993)"	4
+"Scout, The (1994)"	12
+"Angus (1995)"	14
+"Night Falls on Manhattan (1997)"	32
+"Awfully Big Adventure, An (1995)"	8
+"Under Siege 2: Dark Territory (1995)"	48
+"Poison Ivy II (1995)"	13
+"Frighteners, The (1996)"	115
+"Ready to Wear (Pret-A-Porter) (1994)"	18
+"Marked for Death (1990)"	22
+"Madonna: Truth or Dare (1991)"	17
+"N\u00e9nette et Boni (1996)"	6
+"Chairman of the Board (1998)"	8
+"Big Bang Theory, The (1994)"	1
+"Other Voices, Other Rooms (1997)"	1
+"Twisted (1996)"	6
+"Full Speed (1996)"	8
+"Cutthroat Island (1995)"	18
+"Lone Star (1996)"	187
+"Ghost in the Shell (Kokaku kidotai) (1995)"	26
+"Van, The (1996)"	6
+"Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)"	5
+"Night Flier (1997)"	7
+"Metro (1997)"	36
+"Gridlock'd (1997)"	19
+"Bushwhacked (1995)"	7
+"Bad Girls (1994)"	6
+"Blink (1994)"	19
+"For Love or Money (1993)"	12
+"Phenomenon (1996)"	244
+"Best of the Best 3: No Turning Back (1995)"	6
+"A Chef in Love (1996)"	8
+"Contempt (M\u00e9pris, Le) (1963)"	9
+"Tie That Binds, The (1995)"	7
+"Gone Fishin' (1997)"	11
+"Broken English (1996)"	8
+"Designated Mourner, The (1997)"	3
+"Designated Mourner, The (1997)"	4
+"Trial and Error (1997)"	23
+"Pie in the Sky (1995)"	4
+"Spitfire Grill, The (1996)"	97
+"Total Eclipse (1995)"	4
+"Run of the Country, The (1995)"	4
+"Walking and Talking (1996)"	8
+"Foxfire (1996)"	15
+"Nothing to Lose (1994)"	7
+"Star Maps (1997)"	19
+"Bread and Chocolate (Pane e cioccolata) (1973)"	12
+"Clockers (1995)"	33
+"Bitter Moon (1992)"	10
+"Love in the Afternoon (1957)"	10
+"Godfather, The (1972)"	413
+"Life with Mikey (1993)"	7
+"North (1994)"	7
+"Talking About Sex (1994)"	5
+"Color of Night (1994)"	15
+"Robocop 3 (1993)"	11
+"Killer (Bulletproof Heart) (1994)"	4
+"Sunset Park (1996)"	8
+"Set It Off (1996)"	19
+"Selena (1997)"	16
+"Wild America (1997)"	9
+"Supercop (1992)"	65
+"Gang Related (1997)"	16
+"Manny & Lo (1996)"	13
+"Grass Harp, The (1995)"	9
+"Out to Sea (1997)"	19
+"Before and After (1996)"	26
+"Princess Caraboo (1994)"	15
+"Shall We Dance? (1937)"	17
+"Ed (1996)"	6
+"Denise Calls Up (1995)"	7
+"Jack and Sarah (1995)"	7
+"Bound (1996)"	129
+"Country Life (1994)"	2
+"Celtic Pride (1996)"	15
+"Simple Wish, A (1997)"	3
+"Star Kid (1997)"	3
+"Ayn Rand: A Sense of Life (1997)"	7
+"Kicked in the Head (1997)"	7
+"Indian Summer (1996)"	20
+"Love Affair (1994)"	12
+"Band Wagon, The (1953)"	9
+"Penny Serenade (1941)"	8
+"Mighty Aphrodite (1995)"	184
+"Kansas City (1996)"	23
+"'Til There Was You (1997)"	9
+"Stripes (1981)"	5
+"Late Bloomers (1996)"	5
+"Getaway, The (1994)"	18
+"New York Cop (1996)"	2
+"National Lampoon's Senior Trip (1995)"	7
+"Delta of Venus (1994)"	2
+"Carmen Miranda: Bananas Is My Business (1994)"	2
+"Babyfever (1994)"	2
+"Very Natural Thing, A (1974)"	1
+"Breakfast at Tiffany's (1961)"	95
+"Walk in the Sun, A (1945)"	1
+"Waiting to Exhale (1995)"	16
+"Brothers McMullen, The (1995)"	73
+"Event Horizon (1997)"	127
+"Air Bud (1997)"	43
+"In the Company of Men (1997)"	66
+"Steel (1997)"	19
+"Mimic (1997)"	101
+"Hunt for Red October, The (1990)"	227
+"Kull the Conqueror (1997)"	35
+"unknown"	9
+"Chasing Amy (1997)"	255
+"Full Monty, The (1997)"	315
+"Bad Boys (1995)"	57
+"Gattaca (1997)"	136
+"Starship Troopers (1997)"	211
+"Good Will Hunting (1997)"	198
+"Heat (1995)"	223
+"Sabrina (1995)"	190
+"Sense and Sensibility (1995)"	268
+"Leaving Las Vegas (1995)"	298
+"Restoration (1995)"	71
+"Bed of Roses (1996)"	60
+"Once Upon a Time... When We Were Colored (1995)"	28
+"Apollo 13 (1995)"	276
+"Up Close and Personal (1996)"	85
+"River Wild, The (1994)"	146
+"Time to Kill, A (1996)"	232
+"Emma (1996)"	177
+"Tin Cup (1996)"	193
+"Secrets & Lies (1996)"	162
+"English Patient, The (1996)"	481
+"Marvin's Room (1996)"	78
+"Scream (1996)"	478
+"Evita (1996)"	259
+"Batman Forever (1995)"	114
+"Fierce Creatures (1997)"	96
+"Absolute Power (1997)"	127
+"Rosewood (1997)"	114
+"Donnie Brasco (1997)"	147
+"Liar Liar (1997)"	485
+"Breakdown (1997)"	77
+"Promesse, La (1996)"	6
+"Ulee's Gold (1997)"	50
+"Face/Off (1997)"	194
+"Hoodlum (1997)"	73
+"Four Rooms (1995)"	90
+"Belle de jour (1967)"	37
+"Air Force One (1997)"	431
+"In & Out (1997)"	230
+"L.A. Confidential (1997)"	297
+"Ulee's Gold (1997)"	134
+"Fly Away Home (1996)"	149
+"Ice Storm, The (1997)"	87
+"Mrs. Brown (Her Majesty, Mrs. Brown) (1997)"	96
+"Devil's Advocate, The (1997)"	188
+"FairyTale: A True Story (1997)"	30
+"Deceiver (1997)"	28
+"Crimson Tide (1995)"	154
+"Rainmaker, The (1997)"	145
+"Wings of the Dove, The (1997)"	75
+"Midnight in the Garden of Good and Evil (1997)"	80
+"Titanic (1997)"	350
+"3 Ninjas: High Noon At Mega Mountain (1998)"	5
+"Apt Pupil (1998)"	160
+"As Good As It Gets (1997)"	112
+"In the Name of the Father (1993)"	102
+"Schindler's List (1993)"	298
+"Everyone Says I Love You (1996)"	168
+"Crumb (1994)"	81
+"Paradise Lost: The Child Murders at Robin Hood Hills (1996)"	20
+"Mother (1996)"	169
+"Murder at 1600 (1997)"	218
+"Dante's Peak (1997)"	240
+"Lost Highway (1997)"	125
+"Crash (1996)"	128
+"G.I. Jane (1997)"	175
+"Cop Land (1997)"	175
+"Conspiracy Theory (1997)"	295
+"Desperate Measures (1998)"	45
+"Desperado (1995)"	97
+"187 (1997)"	41
+"Edge, The (1997)"	113
+"Kiss the Girls (1997)"	143
+"Game, The (1997)"	251
+"U Turn (1997)"	64
+"How to Be a Player (1997)"	21
+"Playing God (1997)"	43
+"House of Yes, The (1997)"	18
+"Bean (1997)"	91
+"Mad City (1997)"	47
+"Toy Story (1995)"	452
+"Richard III (1995)"	89
+"Fargo (1996)"	508
+"Lightning Jack (1994)"	10
+"Stupids, The (1996)"	17
+"Pest, The (1997)"	8
+"That Darn Cat! (1997)"	8
+"Geronimo: An American Legend (1993)"	9
+"Double vie de V\u00e9ronique, La (Double Life of Veronique, The) (1991)"	22
+"Until the End of the World (Bis ans Ende der Welt) (1991)"	23
+"Waiting for Guffman (1996)"	47
+"I Shot Andy Warhol (1996)"	37
+"Stealing Beauty (1996)"	64
+"Heavy Metal (1981)"	73
+"Basquiat (1996)"	44
+"2 Days in the Valley (1996)"	93
+"Private Parts (1997)"	100
+"Anaconda (1997)"	38
+"Romy and Michele's High School Reunion (1997)"	98
+"Shiloh (1997)"	12
+"Con Air (1997)"	137
+"Trees Lounge (1996)"	50
+"Tie Me Up! Tie Me Down! (1990)"	32
+"Die xue shuang xiong (Killer, The) (1989)"	31
+"Aristocats, The (1970)"	54
+"Gaslight (1944)"	35
+"8 1/2 (1963)"	38
+"Fast, Cheap & Out of Control (1997)"	32
+"Fathers' Day (1997)"	31
+"Mrs. Dalloway (1997)"	15
+"Fire Down Below (1997)"	44
+"Lay of the Land, The (1997)"	4
+"Shooter, The (1995)"	3
+"Grumpier Old Men (1995)"	148
+"Jury Duty (1995)"	14
+"All Dogs Go to Heaven 2 (1996)"	15
+"Beverly Hillbillies, The (1993)"	20
+"Lassie (1994)"	7
+"Little Big League (1994)"	16
+"Homeward Bound II: Lost in San Francisco (1996)"	32
+"Quest, The (1996)"	27
+"Cool Runnings (1993)"	68
+"Drop Dead Fred (1991)"	24
+"Grease 2 (1982)"	24
+"Switchback (1997)"	17
+"Hamlet (1996)"	90
+"Theodore Rex (1995)"	5
+"Two if by Sea (1996)"	25
+"Forget Paris (1995)"	62
+"Just Cause (1995)"	28
+"Rent-a-Kid (1995)"	8
+"Paper, The (1994)"	40
+"Fearless (1993)"	25
+"Malice (1993)"	46
+"Multiplicity (1996)"	134
+"She's the One (1996)"	73
+"House Arrest (1996)"	25
+"Sgt. Bilko (1996)"	74
+"Ghost and Mrs. Muir, The (1947)"	43
+"Associate, The (1996)"	41
+"Dracula: Dead and Loving It (1995)"	25
+"Now and Then (1995)"	24
+"Mr. Wrong (1996)"	23
+"Simple Twist of Fate, A (1994)"	10
+"Cronos (1992)"	10
+"Pallbearer, The (1996)"	22
+"War, The (1994)"	15
+"Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)"	35
+"Diabolique (1996)"	71
+"Adventures of Pinocchio, The (1996)"	39
+"Evening Star, The (1996)"	29
+"Four Days in September (1997)"	12
+"Little Princess, A (1995)"	41
+"Crossfire (1947)"	4
+"Koyaanisqatsi (1983)"	53
+"Balto (1995)"	16
+"Bottle Rocket (1996)"	44
+"Star Maker, The (Uomo delle stelle, L') (1995)"	12
+"Amateur (1994)"	18
+"Moll Flanders (1996)"	42
+"Living in Oblivion (1995)"	27
+"Party Girl (1995)"	16
+"Pyromaniac's Love Story, A (1995)"	7
+"Shallow Grave (1994)"	66
+"Reality Bites (1994)"	77
+"Man of No Importance, A (1994)"	7
+"Pagemaster, The (1994)"	12
+"Love and a .45 (1994)"	8
+"Oliver & Company (1988)"	22
+"Joe's Apartment (1996)"	45
+"Kids in the Hall: Brain Candy (1996)"	65
+"Celestial Clockwork (1994)"	2
+"Curdled (1996)"	8
+"Female Perversions (1996)"	8
+"Albino Alligator (1996)"	6
+"Anne Frank Remembered (1995)"	21
+"Carried Away (1996)"	11
+"It's My Party (1995)"	21
+"Bloodsport 2 (1995)"	10
+"Double Team (1997)"	13
+"Speed 2: Cruise Control (1997)"	38
+"Mystery Science Theater 3000: The Movie (1996)"	130
+"Sliver (1993)"	37
+"Pete's Dragon (1977)"	43
+"Dear God (1996)"	12
+"Live Nude Girls (1995)"	23
+"Thin Line Between Love and Hate, A (1996)"	12
+"High School High (1996)"	29
+"Commandments (1997)"	3
+"Hate (Haine, La) (1995)"	18
+"Flirting With Disaster (1996)"	42
+"Red Firecracker, Green Firecracker (1994)"	13
+"Seven (Se7en) (1995)"	236
+"Operation Dumbo Drop (1995)"	31
+"What Happened Was... (1994)"	8
+"Six Degrees of Separation (1993)"	74
+"Two Much (1996)"	7
+"Trust (1990)"	19
+"C'est arriv\u00e9 pr\u00e8s de chez vous (1992)"	4
+"Firestorm (1998)"	18
+"Newton Boys, The (1998)"	4
+"Beyond Rangoon (1995)"	18
+"Feast of July (1995)"	5
+"Death and the Maiden (1994)"	28
+"Truth About Cats & Dogs, The (1996)"	272
+"Tank Girl (1995)"	41
+"Double Happiness (1994)"	7
+"Cobb (1994)"	15
+"Mrs. Parker and the Vicious Circle (1994)"	22
+"Faithful (1996)"	10
+"Twelfth Night (1996)"	29
+"Mark of Zorro, The (1940)"	13
+"Surviving Picasso (1996)"	19
+"Up in Smoke (1978)"	47
+"Some Kind of Wonderful (1987)"	59
+"Flipper (1996)"	20
+"I'm Not Rappaport (1996)"	17
+"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)"	21
+"They Made Me a Criminal (1939)"	1
+"Last Time I Saw Paris, The (1954)"	3
+"Farewell to Arms, A (1932)"	12
+"Innocents, The (1961)"	4
+"Old Man and the Sea, The (1958)"	32
+"Truman Show, The (1998)"	11
+"Heidi Fleiss: Hollywood Madam (1995) "	13
+"Chungking Express (1994)"	28
+"Mary Poppins (1964)"	178
+"Clerks (1994)"	148
+"Alice in Wonderland (1951)"	81
+"William Shakespeare's Romeo and Juliet (1996)"	106
+"Aladdin and the King of Thieves (1996)"	26
+"E.T. the Extra-Terrestrial (1982)"	300
+"Children of the Corn: The Gathering (1996)"	19
+"Bob Roberts (1992)"	85
+"Transformers: The Movie, The (1986)"	32
+"To Kill a Mockingbird (1962)"	219
+"Harold and Maude (1971)"	121
+"Day the Earth Stood Still, The (1951)"	97
+"Disclosure (1994)"	40
+"Duck Soup (1933)"	93
+"Highlander (1986)"	153
+"Fantasia (1940)"	174
+"Heathers (1989)"	171
+"Forbidden Planet (1956)"	67
+"Butch Cassidy and the Sundance Kid (1969)"	216
+"American Werewolf in London, An (1981)"	99
+"Amityville 1992: It's About Time (1992)"	5
+"Amityville 3-D (1983)"	6
+"Amityville: A New Generation (1993)"	5
+"Dolores Claiborne (1994)"	79
+"Amityville II: The Possession (1982)"	14
+"Amityville Horror, The (1979)"	53
+"Amityville Curse, The (1990)"	4
+"Birds, The (1963)"	162
+"Blob, The (1958)"	46
+"Body Snatcher, The (1945)"	22
+"Burnt Offerings (1976)"	9
+"Carrie (1976)"	121
+"Omen, The (1976)"	85
+"Star Trek: The Motion Picture (1979)"	117
+"Eat Drink Man Woman (1994)"	80
+"Star Trek V: The Final Frontier (1989)"	63
+"Grease (1978)"	170
+"Jaws 2 (1978)"	66
+"Jaws 3-D (1983)"	16
+"Bastard Out of Carolina (1996)"	16
+"Jackie Chan's First Strike (1996)"	145
+"Beverly Hills Ninja (1997)"	48
+"Free Willy 3: The Rescue (1997)"	27
+"Nixon (1995)"	90
+"Cry, the Beloved Country (1995)"	24
+"Exotica (1994)"	27
+"Crossing Guard, The (1995)"	28
+"Smoke (1995)"	74
+"Like Water For Chocolate (Como agua para chocolate) (1992)"	148
+"Secret of Roan Inish, The (1994)"	71
+"Vanya on 42nd Street (1994)"	27
+"Jungle Book, The (1994)"	85
+"Red Rock West (1992)"	52
+"Bronx Tale, A (1993)"	48
+"Rudy (1993)"	64
+"Short Cuts (1993)"	67
+"Ed Wood (1994)"	133
+"Tombstone (1993)"	108
+"Courage Under Fire (1996)"	221
+"Dragonheart (1996)"	158
+"James and the Giant Peach (1996)"	126
+"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)"	194
+"Trainspotting (1996)"	250
+"First Wives Club, The (1996)"	160
+"Matilda (1996)"	95
+"Philadelphia Story, The (1940)"	104
+"Vertigo (1958)"	179
+"Hoop Dreams (1994)"	117
