@@ -1,4 +1,6 @@
-# Classifier: CNN and Transfer Learning
+# Project Summary
+
+## Classifier: CNN and Transfer Learning
 
 This project solves classification problem using following deep learning techniques:
 - Convolution neural network
@@ -6,18 +8,16 @@ This project solves classification problem using following deep learning techniq
 
 https://github.com/vsikarwar/dog-breed-classifier/blob/master/dog_app.md
 
-# Text generation: RNN and LSTM
+## Text generation: RNN and LSTM
 
 This project generate new text using long-short term memory model. It is useful to process continuous sequence in input like text or music and can generate new text based on the history.
 
 https://github.com/vsikarwar/tv-script-generator/blob/master/dlnd_tv_script_generation.ipynb
 
-# Map Reduce
-
-It is a programming model, used for batch processing, it has two main functions mapper and reducer.
+## Map Reduce
 
 > count differet movie rating
-- script : `simple-count.py`
+- script : `big-data-stack/map-reduce/simple-count.py`
 - Data : `data/u.data`
 This is used to count distinct number of rating and how many times one rating is given.
 
@@ -46,9 +46,14 @@ This is used to count distinct number of rating and how many times one rating is
 - data: `data/u.item` and `data/u.data`
 - result: `most-rated-1-star-movie.txt`
 
+> Movie Recommender using item based collaborative filtering
+- script: `movie-recommender.py`
+- data: `data/u.item` and `data/u.data`
+- result:
+
 Data-ref : movie lense data `https://grouplens.org/datasets/movielens/`
 
-# TCP Congestion Control
+## TCP Congestion Control
 
 This project compares four TCP congestion control variants
 - Tahoe
@@ -62,30 +67,30 @@ These four variants behave differently for packet loss, the project show the beh
 
 https://github.com/vsikarwar/tcp-simulation/blob/master/README.md
 
-# Tutorial to use Pandas
+## Tutorial to use Pandas
 https://github.com/vsikarwar/pandas-introduction/blob/master/Pandas.ipynb
 
-# Slack bot integration
+## Slack bot integration
 This is a slack bot, can be referred to develop slack integration
 
 https://github.com/vsikarwar/ChatBot
 
-# Few small and old projects
+## Few small and old projects
 
-## Map Reduce using JS
+### Map Reduce using JS
 https://github.com/v-node/map-reduce/blob/master/main.js
 
-## Consistent Hashing
+### Consistent Hashing
 https://github.com/v-node/consistent-hashsing
 
-## Long Polling
+### Long Polling
 https://github.com/v-node/long-polling/blob/master/long-polling.js
 
-## Facebook haker-cup solution
+### Facebook haker-cup solution
 https://github.com/vsikarwar/LazerMaze
 
-## Google Code Jam solution
+### Google Code Jam solution
 https://github.com/vsikarwar/CodeJam
 
-## Open CV 
+### Open CV
 https://github.com/vsikarwar/opencv

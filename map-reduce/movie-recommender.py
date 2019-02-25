@@ -1,6 +1,9 @@
 # using MR job framework
 from mrjob.job import MRJob
 from mrjob.job import MRStep
+from math import sqrt
+
+from itertools import combinations
 
 class MovieRecommender(MRJob):
 
@@ -30,7 +33,7 @@ class MovieRecommender(MRJob):
     def mapper_item_pairs(self, key, value):
         for item1, item2 in combinations(value, 2):
             yield (item1[0], item2[0]), (item1[1], item2[1])
-            yield (item2[0], item1[0]), (item2[1], item1[0])
+            yield (item2[0], item1[0]), (item2[1], item1[1])
 
 
     def reducer_similarity(self, key, value):
